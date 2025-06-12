@@ -71,7 +71,7 @@ Dibuat menggunakan CodeIgniter dan PHP.
 <p>
 <!-- Saweria -->
 <a href="https://saweria.co/handoko207" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/handoko207/assets/main/icons/saweria.png" width="160" alt="Saweria" />
+  <img src="https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhomepage_characters.a1cf6cc4.svg&w=3840&q=75" width="160" alt="Saweria" />
 </a>
 <br />
 
