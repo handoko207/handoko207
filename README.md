@@ -69,14 +69,11 @@ Dibuat menggunakan CodeIgniter dan PHP.
 ## ❤️ Dukung Saya
 
 <p>
-<!-- Saweria -->
 <a href="https://saweria.co/handoko207" target="_blank" rel="noopener noreferrer">
-  <img src="https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhomepage_characters.a1cf6cc4.svg&w=3840&q=75" width="160" alt="Saweria" />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Saweria" />
 </a>
 <br />
-
-<!-- PayPal -->
 <a href="https://paypal.me/handoko207" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" width="160" alt="PayPal" />
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="PayPal" />
 </a>
 </p>
